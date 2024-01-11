@@ -7,7 +7,11 @@
 body {
     background-image: linear-gradient(lightgreen ,lime);
     background-repeat: no-repeat;
+<<<<<<< HEAD
     color: rgb(130, 170, 51);
+=======
+    color: yellowgreen;
+>>>>>>> 99f4e5a1427f9fc0f0d17b59b20cb1e9843e73d1
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
 }
@@ -16,7 +20,10 @@ header ,footer{
     font-size: 1.5rem;
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
+<<<<<<< HEAD
     
+=======
+>>>>>>> 99f4e5a1427f9fc0f0d17b59b20cb1e9843e73d1
 
     
 }
